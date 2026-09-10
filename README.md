@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Kartik Awasthi 👋</h1>
-<h3 align="center">Data Science Intern @ Deloitte · Full-Stack Developer · B.Tech CCE @ LNMIIT</h3>
+<h3 align="center">Data Science · Full-Stack Developer · B.Tech CCE @ LNMIIT</h3>
 
 <p align="center">
   <a href="https://portfolio-mauve-gamma-25.vercel.app" target="_blank">
